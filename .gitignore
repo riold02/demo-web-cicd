@@ -1,0 +1,12 @@
+# Files to ignore for git
+node_modules/
+npm-debug.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+.env
+.env.local
